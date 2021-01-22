@@ -1,0 +1,194 @@
+
+
+html, body, header, #intro {
+	height: 100vh;
+	width: 100%;
+	
+
+}
+
+
+#intro {
+	background: url("scenery.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.nav {
+	opacity: 0.5;
+}
+
+.box1 {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 100%;
+	font-size: 30px;
+	padding-top: 20%;
+}
+
+h1,h2 {
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+
+.text{
+	color: black;
+}
+
+p{
+	color: white;
+	font-size: 25px;
+	justify-content: center;
+}
+
+.box2 {
+	background: #90EE90;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 40px;
+	
+}
+
+span {
+	width: 100px
+	height: 100px;
+}
+
+
+
+.box3 {
+	display: flex;
+	
+}
+
+.image {
+	width: 100px;
+	height: 100px;
+
+}
+
+.box4 {
+	color: black;
+	padding-top: 13%;
+	padding-bottom: 10%;
+}
+
+.button {
+	width: 40%;
+	height: 45%
+	text-size: 200px;
+	border-radius: 40px;
+}
+
+.box5 {
+	background: grey;
+	max-width: 100%;
+	padding-top: 13%;
+	padding-bottom: 10%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.button2 {
+	border-radius: 40px;
+	width: 30%;
+	height: 15%;
+}
+
+.box6 {
+	background: orange;
+	max-width: 100%;
+	text-align: center;
+
+}
+
+.procrastinate {
+	background: url("procrastinate.png");
+	padding-top: 10%;
+	padding-bottom: 10%;
+
+}
+
+.synergize {
+	background: url("synergize.png");
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.unleash {
+	background: url("unleash.png");
+	padding-top: 10%;
+	padding-bottom: 10%;
+
+}
+
+.box7 {
+	max-width: 100%;
+	text-align: center;
+	justify-content: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+
+}
+
+.sanity, .sanity_p {
+	color: black;
+}
+
+}
+
+.abutton {
+	border-radius: 100px;
+	width: 100%;
+	height: 15%;
+}
+
+
+.box8 {
+	background: green;
+	max-width: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.contact {
+	justify-content: center;
+}
+
+.bottom {
+	max-width: 100%;
+	background: red;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.box9{
+	justify-content: center;
+
+	color: black;
+}
+
+.ftext {
+	color: black;
+	justify-content: center;
+}
+
+.footertxt {
+	color: black;
+}
+
+.footer {
+	text-align: center;
+	max-width: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+
+.footercontainer {
+	max-width: 100%;
+}
